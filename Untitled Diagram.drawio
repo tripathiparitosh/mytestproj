@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T14:38:58.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="tz4Lxl-q24bwjSoYQHZG" version="15.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-12T14:48:35.704Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="gIg8CKyiAkv5wqqx-5Gf" version="15.1.4" type="github" pages="2">
   <diagram id="oL9MQSNbFkMdqf7MfTmI" name="Page-1">
     <mxGraphModel dx="946" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="9EhzL9EJCzUO_ZuSx26l-1" value="Event Queue" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry y="115.44444444444446" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9EhzL9EJCzUO_ZuSx26l-4" value="NoSQL Document DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="9EhzL9EJCzUO_ZuSx26l-4" value="NoSQL Document DB(Marklogic)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="225" y="-10" width="52.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="14Od81qQpGycVzDdTx-Z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9EhzL9EJCzUO_ZuSx26l-8" target="14Od81qQpGycVzDdTx-Z-58">
@@ -52,7 +52,7 @@
         <mxCell id="14Od81qQpGycVzDdTx-Z-11" value="Kafka Producers" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="105.44" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="14Od81qQpGycVzDdTx-Z-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="14Od81qQpGycVzDdTx-Z-16" value="MySQL DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="824" y="-230" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14Od81qQpGycVzDdTx-Z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="14Od81qQpGycVzDdTx-Z-19" target="14Od81qQpGycVzDdTx-Z-20">
